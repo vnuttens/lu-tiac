@@ -1,0 +1,38 @@
+EAD:;2222222;;;;;
+Date:;20220309;;;;;
+Calibration_Factor:;9,33;cps/MBq;;;;
+Time scan 1:;20,5;h;;;;
+Time scan 2:;164,5;h;;;;
+Acquisition time 1:;1920;s;;;;KL = voi of kidney segmented with region growing on ct image
+Acquisition time 2:;2560;s;;;;KL_EXP = voi of KL expanded in every direction with 5mm to include scatter
+A_vial:;6850;MBq;;;;
+A_vial_rest:;66,4;MBq;;;;
+A_spuit+Lnaald_rest:;3,5;MBq;;;;
+A_ingespoten:;7085,2045;MBq;;;;
+;;;;;;
+ACQ1;;;;;;
+KidneyLeft;KL;KL;KL_EXP;;;
+;Integ Tot 181075,38 CNTS*ml;Integ Tot 181075,38 CNTS*ml;Integ Tot 241053,2 CNTS*ml;;;
+;Max 2257 CNTS;Max 2257 CNTS;Max 2257 CNTS;;;
+;Mean 886,91 CNTS;Mean 886,91 CNTS;Mean 720,41 CNTS;;;
+;Tot 2186214,5 CNTS;Tot 1642249,88 CNTS;Tot 2186214,5 CNTS;;;
+;Vol 204,16 ml;Vol 204,16 ml;Vol 334,61 ml;;;
+KidneyRight:;KR;KR;KR_EXP;;;
+;Integ Tot 249498,62 CNTS*ml;Integ Tot 249498,62 CNTS*ml;Integ Tot 329480,75 CNTS*ml;;;
+;Max 2759 CNTS;Max 2759 CNTS;Max 2759 CNTS;;;
+;Mean 1437,53 CNTS;Mean 1437,53 CNTS;Mean 1128,08 CNTS;;;
+;Tot 2988201,75 CNTS;Tot 2262809,75 CNTS;Tot 2988201,75 CNTS;;;
+;Vol 173,56 ml;Vol 173,56 ml;Vol 292,07 ml;;;
+ACQ 2;;;;;;
+KidneyLeft:;KL;KL;KL_EXP;;;
+;Integ Tot 11547,25 CNTS*ml;Integ Tot 11547,25 CNTS*ml;Integ Tot 14996,99 CNTS*ml;;;
+;Max 180 CNTS;Max 180 CNTS;Max 180 CNTS;;;
+;Mean 55,28 CNTS;Mean 55,28 CNTS;Mean 44,29 CNTS;;;
+;Tot 136014,11 CNTS;Tot 104726,9 CNTS;Tot 136014,11 CNTS;;;
+;Vol 208,89 ml;Vol 208,89 ml;Vol 338,6 ml;;;
+KidneyRight;KR;KR;KR_EXP;;;
+;Integ Tot 15436,53 CNTS*ml;Integ Tot 15436,53 CNTS*ml;Integ Tot 20095,3 CNTS*ml;;;
+;Max 270 CNTS;Max 270 CNTS;Max 270 CNTS;;;
+;Mean 87,43 CNTS;Mean 87,43 CNTS;Mean 68,04 CNTS;;;
+;Tot 182252,88 CNTS;Tot 140000,47 CNTS;Tot 182252,88 CNTS;;;
+;Vol 176,56 ml;Vol 176,56 ml;Vol 295,36 ml;;;
