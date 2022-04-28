@@ -1,10 +1,8 @@
 import os
-from scipy import stats
 import matplotlib.pyplot as plt
 import numpy as np
 import csv
 import lmfit
-from fpdf import FPDF
 
 # Victor Nuttens
 # V03
